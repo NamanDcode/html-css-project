@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(0, 0, 1);
+}
+
+header {
+    background-color: #8f948d;
+    color: #e3dcdc;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #040101;
+}
+
+.hero {
+    background-color: #a0e68f;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/023/330/040/small/roasted-coffee-beans-brown-sugar-and-cup-of-hot-espresso-coffee-top-view-flat-lay-with-copy-space-generative-ai-photo.jpg);
+    background-size: cover;
+    color: #e0e8e0;
+    text-align:start;
+    padding: 300px 20px;
+    font-size:25px;
+}
+
+.menu {
+    background-color: #8f948d;
+    padding: 30px;
+}
+
+.about {
+    text-align:center;
+    padding: 70px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
